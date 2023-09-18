@@ -10,7 +10,7 @@ public class Keliling_lingkaran {
         double keliling, phi = 3.14;
         int diameter;
 
-        System.out.println("Masukkan jari jari : ");
+        System.out.println("Masukkan diameter : ");
         diameter = input.nextInt();
 
         keliling = phi * diameter;
