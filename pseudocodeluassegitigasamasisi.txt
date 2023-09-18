@@ -1,0 +1,16 @@
+Pseudocode luas segitiga sama sisi
+
+Algoritma :  menghitung_luas_segitiga sama sisi
+{dibaca alas dan tinggi dari piranti masukan. Hitunglah luas segitiga sama sisi}! 
+
+Deklarasi :
+alas, tinggi, luas:int 
+
+Deskripsi :
+print "masukan alas"
+read alas
+print "masukan tinggi"
+read tinggi
+luas = alas * tinggi / 2
+print "luas segitiga sama sisi ="
+print luas

@@ -1,0 +1,16 @@
+Pseudocode keliling persegi
+
+Algoritma :  menghitung_keliling_persegi
+{dibaca Panjang dan lebar dari piranti masukan. Hitunglah keliling persegi}! 
+
+Deklarasi :
+panjang, lebar, keliling:int 
+
+Deskripsi :
+print "masukan panjang"
+read panjang
+print "masukan lebar"
+read lebar
+keliling = 2 * (panjang + lebar)
+print "keliling persegi panjang ="
+print keliling

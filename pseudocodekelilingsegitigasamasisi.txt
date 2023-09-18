@@ -1,0 +1,18 @@
+Pseudocode keliling segitiga sama sisi
+
+Algoritma :  menghitung_keliling_segitiga sama sisi
+{dibaca sisi A, sisi B dan sisi C dari piranti masukan. Hitunglah keliling segitiga sama sisi}! 
+
+Deklarasi :
+sisi A, sisi B, sisi C, keliling:int 
+
+Deskripsi :
+print "masukan sisi A"
+read sisi A
+print "masukan sisi B"
+read sisi B
+print "masukan sisi C"
+read sisi C
+keliling = sisi A + sisi B + sisi C
+print "keliling segitiga sama sisi ="
+print keliling

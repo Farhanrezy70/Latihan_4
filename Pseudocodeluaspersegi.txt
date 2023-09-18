@@ -1,0 +1,16 @@
+Pseudocode luas persegi
+
+Algoritma :  menghitung_luas_persegi
+{dibaca Panjang dan lebar dari piranti masukan. Hitunglah luas persegi}! 
+
+Deklarasi :
+panjang, lebar, luas:int 
+
+Deskripsi :
+print "masukan panjang"
+read panjang
+print "masukan lebar"
+read lebar
+luas = panjang * lebar
+print "luas persegi panjang ="
+print luas

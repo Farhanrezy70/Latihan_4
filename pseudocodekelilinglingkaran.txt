@@ -1,0 +1,15 @@
+Pseudocode keliling lingkaran
+
+Algoritma :  menghitung_keliling_lingkaran
+{dibaca jari jari dari piranti masukan. Hitunglah keliling lingkaran}! 
+
+Deklarasi :
+diameter : int
+keliling,phi : double
+
+Deskripsi :
+print "masukan jari-jari"
+read jari-jari
+keliling = phi * diameter 
+print "keliling lingkaran ="
+print keliling

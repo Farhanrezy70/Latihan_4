@@ -1,0 +1,15 @@
+Pseudocode luas lingkaran
+
+Algoritma :  menghitung_luas_lingkaran
+{dibaca jari jari dari piranti masukan. Hitunglah luas lingkaran}! 
+
+Deklarasi :
+jari-jari : int
+luas,phi : double
+
+Deskripsi :
+print "masukan jari-jari"
+read jari-jari
+luas = phi * jari-jari * jari-jari
+print "luas lingkaran ="
+print luas
